@@ -1,0 +1,175 @@
+.navbar{
+    height: 60px;
+    background-color: #0F1111;
+    color: #A2D3C2;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar p{
+    font-size: 20px;
+    font-weight: 200;
+}
+.logo{
+    height: 50px;
+    width: 100px;
+    background-image: url("logo.png");
+    background-size: cover;
+    
+    
+}
+a{
+    color: #A2D3C2;
+}
+.heading{
+    position: relative;
+    left: 50px;
+}
+
+.anchor{
+    color:inherit;
+    font-size: 18px;
+    font-weight: 200;
+    height: 60px;
+    width: 380px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    text-decoration: none;
+}
+.heading{
+    position: relative;
+    left: 50px;
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.don-button:hover{
+    border: 1px solid white ;
+}
+.bac-image{
+    background-image: url("poverty.jpg");
+    height: 500px;
+    margin-top: 10px;
+    background-size: cover;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.items{
+    background-color: black;
+    color: white;
+    height:300px;
+    width:25%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 35px;
+    margin-right: 200px;
+    
+    
+}
+body{
+    
+}
+.heading{
+    text-align: center;
+}
+.message{
+    position: relative;
+    height: 200px;
+    background-color: aquamarine;
+    width: 400px;
+    color:black;
+   border-radius: 1%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.things{
+    display: flex;
+    justify-content: space-around;
+     margin-top: 20px;
+}
+
+.mess{
+    font-size: 20px;
+    position: relative;
+    bottom: 25px;
+}
+.box1{
+    height: 700px;
+    width:25%;
+   border-radius: 5%;
+    background-color:#A2D3C2;
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.box2{
+    height:700px;
+    width:25%;
+    border-radius: 5%;
+    background-color:#A2D3C2;
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.box3{
+    height:700px;
+    width:25%;
+    border-radius: 5%;
+    background-color:#A2D3C2;
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.img1{
+    height:50%;
+    width: 90%;
+    border-radius: 2%;
+    margin: 20px;
+    background-image: url("img2.jpg");
+    background-size: cover;
+}
+.img2{
+    height:50%;
+    width: 90%;
+    border-radius: 2%;
+    margin: 20px;
+    background-image: url("w-empowerment.jpg");
+    background-size: cover;
+}
+.img3{
+    height:50%;
+    width: 90%;
+    border-radius: 2%;
+    margin: 20px;
+    background-image: url("Dreams-on-Streets-870x432.jpg");
+    background-size: cover;
+}
+.logy{
+    height:100px;
+    margin-top: 20px;
+    background-color:bisque;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lo{
+    
+    height:100%;
+    width:100px;
+   
+    background-image: url("logo.png");
+    background-size: cover;
+    
+}
+.don2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
